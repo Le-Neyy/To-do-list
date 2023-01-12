@@ -1,0 +1,50 @@
+.header{
+    width : 600px;
+    margin : 0;
+    background-color: white;
+    height : 60px;
+}
+ 
+.header_titre {
+    color : rgb(0, 0, 0);
+    text-align : left;
+    font-size : 28px;
+}
+ 
+body {
+    margin : 0;
+}
+ 
+.taches_input {
+    width : 100px;
+    margin : 0 ;
+    margin-top : 40px;
+    display : grid;
+    grid-template-columns:  8fr 2fr;
+}
+ 
+#inserer {
+    height : 10px;
+}
+ 
+#envoyer {
+    background-color : rgb(209, 209, 209);
+    height : 10px;
+}
+ 
+ 
+ 
+th {
+    border: 1px solid rgb(23, 0, 128);
+    padding : 10px;
+}
+ 
+td {
+    border : 1px solid rgb(87, 0, 128);
+    text-align : center;
+    padding : 10px;
+}
+ 
+
+
+
